@@ -1,0 +1,9 @@
+DEBUG:root:Application logger is working
+DEBUG:root:Application logger is working
+INFO:root:This is the info data
+DEBUG:root:Application logger is working
+INFO:root:This is the info data
+ERROR:root:Can not login to application server, somthing went wrong!!!
+DEBUG:root:Application logger is working
+INFO:root:This is the info data
+ERROR:root:{'status': 1, 'message': 'Can not login to application server, somthing went wrong!!!'}
